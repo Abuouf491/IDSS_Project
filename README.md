@@ -13,5 +13,7 @@ Data Input: The user inputs essential car data, including the age, model, mainte
 Evaluation: The system uses MCDM methods to evaluate multiple criteria that affect the decision of keeping or replacing the car.
 Financial Analysis: It applies Present Value Analysis to evaluate future costs and the long-term value of the car.
 Recommendation: Based on the results, the system recommends whether to replace the car or keep it.
-Try the Demo
-You can try the live demo of the Intelligent Decision Support System for the car replacement problem on Streamlit.
+
+## Try the Demo
+
+You can try the live demo of the **Intelligent Decision Support System** for the car replacement problem on [Streamlit](https://car-replacement-problem-idss.streamlit.app/).
